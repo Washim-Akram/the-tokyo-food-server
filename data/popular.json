@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Sushi",
+    "description": "A dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits.",
+    "image": "https://cordmagazine.com/wp-content/uploads/2017/01/food-sushi-the-world-famous-japanese-food-2017.jpg",
+    "category": "Seafood",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Ramen",
+    "description": "A Japanese dish with Chinese-style wheat noodles served in a meat or fish-based broth, often flavored with soy sauce or miso, and topped with ingredients such as sliced pork, dried seaweed, and green onions.",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F4228906cb4af7dccaf0c7809e5e354a1a6f693b0",
+    "category": "Noodles",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Tempura",
+    "description": "A Japanese dish of seafood or vegetables that have been battered and deep-fried until crispy.",
+    "image": "https://img-global.cpcdn.com/recipes/7676f9724fdfb355/1200x630cq70/photo.jpg",
+    "category": "Appetizer",
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "name": "Soba",
+    "description": "A type of Japanese noodle made from buckwheat flour, often served chilled with a dipping sauce or in hot broth.",
+    "image": "https://www.thespruceeats.com/thmb/87YpRwQY3AZSlki59_x6PzI7NB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/zaru-soba-2031635-Hero_02-80c9e4d6661d460682fadb946f107f6a.jpg",
+    "category": "Noodles",
+    "rating": 3.8
+  },
+  {
+    "id": 5,
+    "name": "Okonomiyaki",
+    "description": "A Japanese savory pancake made with a variety of ingredients, such as shredded cabbage, meats, seafood, and eggs, and topped with a sweet and savory sauce, mayonnaise, and dried seaweed.",
+    "image": "https://www.wandercooks.com/wp-content/uploads/2020/10/okonomiyaki-japanese-pancake-recipe-3-683x1024.jpg",
+    "category": "Street Food",
+    "rating": 4.1
+  },
+  {
+    "id": 6,
+    "name": "Tonkatsu",
+    "description": "A Japanese dish consisting of a breaded and deep-fried pork cutlet, often served with rice, miso soup, and shredded cabbage.",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-01-Tonkatsu%2Ftonkatsu_1_of_2",
+    "category": "Meat",
+    "rating": 4.3
+  }
+]
