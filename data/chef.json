@@ -1,0 +1,44 @@
+[
+  {
+    "picture": "https://media.istockphoto.com/id/1144614890/photo/portrait-of-a-japanese-sushi-chef.jpg?s=612x612&w=0&k=20&c=Jj2U4sPtwXgFQmL8yGy63y7OpfcB5PGxkiPIh2pDH5o=",
+    "name": "Hironori Takahashi",
+    "experience": 25,
+    "recipes": 150,
+    "likes": 45000
+  },
+  {
+    "picture": "https://media.istockphoto.com/id/1155020587/photo/making-sushi.jpg?s=612x612&w=0&k=20&c=3qgHbutRT8yzajkYm6Klv_ys-1RWnza-vvbjpOEgAC8=",
+    "name": "Yoshihiro Narisawa",
+    "experience": 20,
+    "recipes": 100,
+    "likes": 40000
+  },
+  {
+    "picture": "https://media.istockphoto.com/id/975500428/photo/man-cooking-in-a-kitchen-at-japanese-pub.jpg?s=612x612&w=0&k=20&c=4N67nJWFJPJB1yJ-UzQsCy_V0z2xeYZjdoQAWC_rTZk=",
+    "name": "Hiroyasu Kawate",
+    "experience": 15,
+    "recipes": 75,
+    "likes": 35000
+  },
+  {
+    "picture": "https://media.istockphoto.com/id/1055721452/photo/japanese-ramen-shop-owner.jpg?s=612x612&w=0&k=20&c=lWRbChtkJMnFv3jljZWgSt23Jt8dcYN9v4rEqs_hrz8=",
+    "name": "Kentaro Nakanishi",
+    "experience": 10,
+    "recipes": 50,
+    "likes": 30000
+  },
+  {
+    "picture": "https://media.istockphoto.com/id/1192631074/photo/teppanyaki.jpg?s=612x612&w=0&k=20&c=C8ZHHIoeKr8Y_wcQRqejf_EWe5YdeP7W4SIx3jsns8s=",
+    "name": "Koji Kobayashi",
+    "experience": 5,
+    "recipes": 25,
+    "likes": 25000
+  },
+  {
+    "picture": "https://media.istockphoto.com/id/692459406/photo/thailand-bangkok-07-february-2017-asian-chef-is-cooking-and-cutting-japanese-food-in-an.jpg?s=612x612&w=0&k=20&c=xMHi7fPbgu3eNFsDDesGD7RjUDqrDnig-9iUwcpeOuU=",
+    "name": "Jiro Ono",
+    "experience": 50,
+    "recipes": 300,
+    "likes": 55000
+  }
+]
