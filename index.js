@@ -7,6 +7,7 @@ app.use(cors());
 
 const chef = require('./data/chef.json');
 const popular = require('./data/popular.json');
+const review = require('./data/review.json');
 
 app.get('/', (req, res) => {
     res.send('The Tokyo Food Server is Running.')
@@ -18,6 +19,10 @@ app.get('/chef', (req, res) => {
 
 app.get('/popular', (req, res) => {
     res.send(popular);
+});
+
+app.get('/review', (req, res) => {
+    res.send(review);
 });
 
 app.listen(port, () => {
