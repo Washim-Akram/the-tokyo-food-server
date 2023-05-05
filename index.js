@@ -21,7 +21,7 @@ app.get('/chef/:id', (req, res) => {
     const id = parseInt(req.params.id);
     const selectedChef = chef.find(c => parseInt(c.id) === id);
     res.send(selectedChef);
-})
+});
 
 app.get('/popular', (req, res) => {
     res.send(popular);
@@ -33,4 +33,4 @@ app.get('/review', (req, res) => {
 
 app.listen(port, () => {
     console.log(`The Tokyo Food Server Listening on Port: ${port}`);
-})
+});
