@@ -17,6 +17,12 @@ app.get('/chef', (req, res) => {
     res.send(chef);
 });
 
+app.get('/chef/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const selectedChef = chef.find(c => parseInt(c.id) === id);
+    res.send(selectedChef);
+})
+
 app.get('/popular', (req, res) => {
     res.send(popular);
 });
